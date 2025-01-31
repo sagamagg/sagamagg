@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagamagg
-- 👀 I’m interested in Phisics, horses and sports
+- 👀 I’m interested in Physics, horses and sports
 - 🌱 I’m currently learning Biomedical Engineering
 - 💞️ I’m looking to collaborate on Engineering projets
 - 📫 How to reach me saga22@ru.is
